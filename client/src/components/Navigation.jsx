@@ -13,11 +13,6 @@ const Navigation = () => {
             </Link>
             <ul className="flex ml-auto gap-10 list-none m-0 p-0">
                 <li className="m-0">
-                    <Link to="/" className="text-white font-bold no-underline">
-                        Home
-                    </Link>
-                </li>
-                <li className="m-0">
                     <Link
                         to="/login"
                         className="text-white font-bold no-underline"
